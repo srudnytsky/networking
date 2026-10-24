@@ -23,14 +23,14 @@ srudnytsky@Trinity:~/networking/networking$ ip a
 
 ### understanding command output
 
-[x] Interface - eth0
-[x] Connection type - Ethernet
-[x] MAC-address - 00:15:5d:6b:86:a4
-[x] Ip address - 172.25.51.69
-[x] Subnet - 255.255.240.0 or /20
-[x] Gateway - unknown
-[x] Broadcast address - 172.25.63.255
-[x] Count of possible hosts - 4094
+- [x] Interface - eth0
+- [x] Connection type - Ethernet
+- [x] MAC-address - 00:15:5d:6b:86:a4
+- [x] Ip address - 172.25.51.69
+- [x] Subnet - 255.255.240.0 or /20
+- [x] Gateway - unknown
+- [x] Broadcast address - 172.25.63.255
+- [x] Count of possible hosts - 4094
 
 # comand 2
 ```bash
